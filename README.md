@@ -1,6 +1,7 @@
-# data
-## dataset1---18人全基因组数据
-| i |	Assembly Accession |	Assembly Name |	Download Link |
+# Datasets
+
+## Dataset1 - 18 human genomes
+| Dataset ID |	Assembly Accession |	Assembly Name |	Download Link |
 |:-:|:-:|:-:|-|
 |1|GCA_009914755.4|CHM13_T2T_v2.0|https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/CHM13/assemblies/analysis_set/chm13v2.0.fa.gz|
 |2|GCA_000001405.28|GRCh38.p13|https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.28_GRCh38.p13/GCA_000001405.28_GRCh38.p13_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/|
@@ -21,19 +22,11 @@
 |17|GCA_001712695.1|KOREF1.0|https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/712/695/GCA_001712695.1_KOREF1.0/GCA_001712695.1_KOREF1.0_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/|
 |18|GCA_000002115.2|WGSA|https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/002/115/GCA_000002115.2_WGSA/GCA_000002115.2_WGSA_assembly_structure/Primary_Assembly/assembled_chromosomes/FASTA/|
 
-## dataset2---小基因组数据
-|Dataset|Sequences number|Mean length(without N)|Mean length(with N)|数据大小/MB|Download link|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+## Dataset2 - small genome datasets
+|Dataset Name|Number of Sequences|Mean Length without `N`|Mean Length with `N`|Data size/MB|<center>Download Link</center>|
+|:-:|:-:|:-:|:-:|:-:|-|
 |Mitochondrial-genome|672|16,568|16,568|10.6|http://lab.malab.cn/soft/halign/data/mt1x.zip|
-|Neisseria-meningitidis|5|2,190,088|2,190,088|10.4||
-|Streptococcus-pneumoniae|11|2,138,975|2,139,054|22.4||
-|Escherichia-coil|30|5,060,511|5,060,749|144.8||
-|3Human-chromosome-1|3|231,424,778|231,424,778|662.1||
-
-
-
-
-
-
-
-
+|Neisseria-meningitidis|5|2,190,088|2,190,088|10.4|https://github.com/malabz/Halign-G-data/raw/main/data/Neisseria-meningitidis.zip|
+|Streptococcus-pneumoniae|11|2,138,975|2,139,054|22.4|https://github.com/malabz/Halign-G-data/raw/main/data/Streptococcus-pneumoniae.zip|
+|Escherichia-coil|30|5,060,511|5,060,749|144.8|https://github.com/malabz/Halign-G-data/raw/main/data/Escherichia-coil.zip.001<br>https://github.com/malabz/Halign-G-data/raw/main/data/Escherichia-coil.zip.002|
+|3Human-chromosome-1|3|231,424,778|231,424,778|662.1|https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.001<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.002<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.003<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.004<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.005<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.006<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.007<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.008<br>https://github.com/malabz/Halign-G-data/raw/main/data/3-Human-chromosome-1.zip.009|
